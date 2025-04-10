@@ -24,7 +24,7 @@ This script processes video frames through the following pipeline:
 
 ## Future Development
 
-This script serves as the core processing logic for a planned full-stack web application. The goal is to create a user-friendly interface where:
+This script serves as the core processing logic for a planned [full-stack web application](https://github.com/sahildevani7/lane-vision). The goal is to create a user-friendly interface where:
 
 1.  **Frontend:** Users can upload their own video files through a web browser.
 2.  **Backend (Python/Flask):** A Flask-based backend server will receive the uploaded video.
